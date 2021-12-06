@@ -2,7 +2,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/f4a35a1f-0e29-4093-a647-e66aad164737/project/b645c02d-da46-4ea1-a962-5891666415f5.svg)](https://wakatime.com/badge/user/f4a35a1f-0e29-4093-a647-e66aad164737/project/b645c02d-da46-4ea1-a962-5891666415f5)
 
-A toy lexical analyzer for the PCAT language.
+A toy lexical analyzer for the PCAT language, built with Flex, written in C++17.
 
 [中文报告](./docs/report.md)
 
